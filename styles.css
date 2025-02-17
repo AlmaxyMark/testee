@@ -41,7 +41,7 @@ body {
 }
 
 .key.correct {
-    background-color: #4caf50;
+    background-color: #0037fc;
     color: white;
     cursor: default;
 }
